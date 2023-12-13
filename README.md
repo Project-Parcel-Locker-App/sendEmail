@@ -12,3 +12,9 @@ Nodemailer is a Node.js module that simplifies sending emails from Node.js appli
 2. **Set up message options:** Define sender, recipient, subject, and content.
 3. **Send the email:** Call the `sendMail` method on the transporter.
 
+## example if .env setting
+EMAIL= your Emailadress
+REFRESH_TOKEN= your token
+CLIENT_SECRET=your client secret
+CLIENT_ID=your client ID
+
